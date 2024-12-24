@@ -1,0 +1,12 @@
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/POST/POSTAPICall.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/DELETE/deleteAPITest.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/otherAPIs/APIResponseHeaderTest.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/PUT/PUTAPI.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/otherAPIs/APIDisposeTest.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/base/BaseTest.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/POST/CreateUSerTestWithJSON.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/POST/CreateUserPOSTPOJOTest.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/GET/GETAPICall.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/otherAPIs/authTokenTest.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/POST/PostAPILombok.java
+/Users/swapnashetty/eclipse-workspace/PlayWrightAPI/src/test/java/com/qa/api/tests/POST/CreateUserJSONFromFile.java

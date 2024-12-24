@@ -1,0 +1,3 @@
+com/qa/api/tests/APIDisposeTest.class
+com/qa/api/tests/APIResponseHeaderTest.class
+com/qa/api/tests/PostAPILombok.class
